@@ -1,0 +1,15 @@
+name : ML-binder
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - matplotlib
+  - tensorflow
+  - keras
+  - seaborn 
+  - pip:
+     - scikit-learn
+
+
