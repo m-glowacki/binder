@@ -11,5 +11,7 @@ dependencies:
   - seaborn 
   - pip:
      - scikit-learn
+     - arviz
+     - pymc3
 
 
